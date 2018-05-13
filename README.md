@@ -6,10 +6,15 @@ The SOLID principles are the foundation for the implementing/creating effective,
 
 
 S for Single Responsibility Principle
+
 O for Open Closed Principle
+
 L for Liskov substituation principle
+
 I for interface segeragation principle
+
 D for dependecy inversion principle
+
 
 
 ## Single Responsibility Principle ##
