@@ -11,9 +11,9 @@ O for Open Closed Principle
 
 L for Liskov substituation principle
 
-I for interface segeragation principle
+I for Interface segeragation principle
 
-D for dependecy inversion principle
+D for Dependecy inversion principle
 
 
 
